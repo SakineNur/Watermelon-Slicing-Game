@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/konumlar">
+        <file>konumlar/konumlar.txt</file>
+    </qresource>
+</RCC>
